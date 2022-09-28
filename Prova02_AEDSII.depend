@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1664384992 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\employees\employee.c
+	"employee.h"
+	<stdlib.h>
+	<string.h>
+
+1664384972 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\employees\employee.h
+	<stdio.h>
+
+1584205420 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1664393871 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\classificationmethods\classifications.c
+	"Classifications.h"
+	"../Employees/employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1664386495 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\classificationmethods\classifications.h
+	<stdio.h>
+	"../Employees/employee.h"
+
