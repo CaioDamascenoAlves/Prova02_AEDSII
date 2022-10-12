@@ -39,18 +39,35 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Employees/employee.h" />
+		<Unit filename="List_ED/list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="List_ED/list.h" />
+		<Unit filename="Main.h" />
+		<Unit filename="Menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menu.h" />
+		<Unit filename="MergeMethods/MergeMethod.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MergeMethods/MergeMethod.h" />
+		<Unit filename="PartitioningMethods/Partitioning.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PartitioningMethods/Partitioning.h" />
 		<Unit filename="SearchMethods/SearchBinary.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="SearchMethods/SearchBinary.h" />
+		<Unit filename="Stack_ED/Stack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Stack_ED/Stack.h" />
 		<Unit filename="Trees&apos;s/BTree.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Trees&apos;s/BTree.h" />
-		<Unit filename="Trees&apos;s/BTressPlus.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Trees&apos;s/BTressPlus.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

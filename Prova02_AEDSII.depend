@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1664384992 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\employees\employee.c
+1665599210 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\employees\employee.c
 	"employee.h"
 	<stdlib.h>
 	<string.h>
@@ -7,9 +7,8 @@
 1664384972 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\employees\employee.h
 	<stdio.h>
 
-1584205420 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\main.c
-	<stdio.h>
-	<stdlib.h>
+1665599963 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\main.c
+	"Main.h"
 
 1664393871 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\classificationmethods\classifications.c
 	"Classifications.h"
@@ -43,4 +42,56 @@
 1665595902 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\searchmethods\searchbinary.h
 	<stdio.h>
 	"../Employees/employee.h"
+
+1665597455 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\main.h
+	"List_ED/list.h"
+	"Stack_ED/Stack.h"
+	<stdio.h>
+	<stdlib.h>
+	"ClassificationMethods/Insertion_Sort_In_File.h"
+	"./PartitioningMethods/Partitioning.h"
+	"MergeMethods/MergeMethod.h"
+	"./Trees's/BTree.h"
+
+1664386858 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\stack_ed\stack.h
+	"../Employees/employee.h"
+
+1664386650 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\partitioningmethods\partitioning.h
+	<stdio.h>
+	"../Employees/employee.h"
+	"../List_ED/list.h"
+
+1664385726 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\list_ed\list.h
+
+1664387039 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\stack_ed\stack.c
+	"Stack.h"
+	<locale.h>
+
+1664385710 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\list_ed\list.c
+	"list.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
+1664386698 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\partitioningmethods\partitioning.c
+	"Partitioning.h"
+	<stdlib.h>
+	<limits.h>
+
+1664386750 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\mergemethods\mergemethod.h
+	<stdio.h>
+	"../Employees/employee.h"
+	"../List_ED/list.h"
+
+1664391129 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\mergemethods\mergemethod.c
+	"MergeMethod.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1664390868 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\menu.c
+	<stdlib.h>
+	<stdio.h>
 
