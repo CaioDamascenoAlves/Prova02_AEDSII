@@ -23,3 +23,24 @@
 	<stdio.h>
 	"../Employees/employee.h"
 
+1664384765 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\trees's\btree.c
+	"BTree.h"
+	<locale.h>
+
+1664385060 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\trees's\btree.h
+	"../Employees/employee.h"
+
+1665595817 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\classificationmethods\insertion_sort_in_file.c
+	"Insertion_Sort_In_File.h"
+	"../Employees/employee.h"
+
+1664393960 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\classificationmethods\insertion_sort_in_file.h
+	<stdio.h>
+
+1664394251 source:c:\users\caiod\desktop\aedsii_github\prova02_aedsii\searchmethods\searchbinary.c
+	"SearchBinary.h"
+
+1665595902 c:\users\caiod\desktop\aedsii_github\prova02_aedsii\searchmethods\searchbinary.h
+	<stdio.h>
+	"../Employees/employee.h"
+

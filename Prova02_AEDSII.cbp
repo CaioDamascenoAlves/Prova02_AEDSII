@@ -31,6 +31,26 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="ClassificationMethods/Insertion_Sort_In_File.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ClassificationMethods/Insertion_Sort_In_File.h" />
+		<Unit filename="Employees/employee.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Employees/employee.h" />
+		<Unit filename="SearchMethods/SearchBinary.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SearchMethods/SearchBinary.h" />
+		<Unit filename="Trees&apos;s/BTree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Trees&apos;s/BTree.h" />
+		<Unit filename="Trees&apos;s/BTressPlus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Trees&apos;s/BTressPlus.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

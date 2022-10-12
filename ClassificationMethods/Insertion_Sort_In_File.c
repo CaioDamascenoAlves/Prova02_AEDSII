@@ -1,4 +1,5 @@
 #include "Insertion_Sort_In_File.h"
+#include "../Employees/employee.h"
 
 void insertion_sort_disco(FILE *arq, int tam) {
     rewind(arq); //posiciona cursor no inicio do arquivo
